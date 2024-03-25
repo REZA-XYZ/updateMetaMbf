@@ -1,2 +1,1 @@
-# updateMetaMbf
-Jangan di Dec sc nya hargai aku 
+# LAGI DI PROSES UPDATE DI TUNGGU YA
