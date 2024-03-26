@@ -20,7 +20,7 @@
 - `pip install requests`
 - `pip install mechanize`
 - `rm -rf updateMetaMbf`
-- `git clone https://github.com/Reza-XD/updateMetaMbf`
+- `git clone https://github.com/REZA-XYZ/updateMetaMbf`
 - `cd updateMetaMbf`
 - `python NbhgFb.py`
      
